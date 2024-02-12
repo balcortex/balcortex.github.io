@@ -1,8 +1,7 @@
 # Bal Cortex
 
 ## Baldwin Rainiero
-
-Hello there! 
+### PhD in Electrical Engineering 
 
 ---
 🔥 My stats
