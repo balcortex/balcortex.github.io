@@ -1,7 +1,10 @@
 # Bal Cortex
 
-## Baldwin Rainiero
-### PhD in Electrical Engineering 
+## PhD in Electrical Engineering 
+
+## Machine Learning and Data Science
+
+## Web Developer
 
 ---
 🔥 My stats
