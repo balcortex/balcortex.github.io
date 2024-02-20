@@ -4,7 +4,15 @@
 
 ## Machine Learning and Data Science
 
+* Python
+* Numpy
+* Pandas
+
 ## Web Developer
+
+* HTML 5
+* CSS 3
+* JavaScript
 
 ---
 🔥 My stats
