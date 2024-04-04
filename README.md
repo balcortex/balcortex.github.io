@@ -1,6 +1,18 @@
 # Bal Cortex
 
-## PhD in Electrical Engineering 
+## About Me
+
+<img style='float: left; margin: 0px 20px 5px 0px;'  src='./img/bal_phd_photo.jpg' width=150/>
+
+Born in August 3rd, 1991, in a small town in Tanhuato, a small town in the county of Michoacan, in Mexico. At the age of 18, I had to move to the city of Morelia to enroll as a college student. In 2014, I received my Bachelor's degree with a major in Electronics Engineering at the Universidad Michoacana de San Nicolas de Hidalgo (UMSNH). In 2017, I received my Master's degree in Electric Engineering with a Control Systems specialty, at the same university. In 2022, I got my Ph.D. degree in Electric Engineering, at the UMSNH also.
+
+My main subject of interest is Machine Learning, in special its sub-area of Reinforcement Learning. In this regard, I have used Python and PyTorch to conduct my research. Nevertheless, I'm also familiar with other ML frameworks like TensorFlow and Keras.
+
+## Degrees
+
+* Ph.D. in Electrical Engineering (2018-2022)
+* M.Sc. in Electronics Engineering (2015-2017)
+* B.Sc. in Electronics Engineering (2009-2014)
 
 ## Machine Learning and Data Science
 
