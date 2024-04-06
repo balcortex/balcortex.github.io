@@ -42,37 +42,55 @@ Throughout my academic odyssey, I have navigated the intricate landscape of Mach
 
 As I continue to chart my course in the ever-evolving realm of technology, I remain steadfast in my pursuit of knowledge, innovation, and transformative change. With a fervent dedication to harnessing the power of Machine Learning to drive meaningful impact, I stand poised to embrace the challenges and opportunities that lie ahead, eager to leave an indelible mark on the world.
 
-<!-- <img style='float: left; margin: 0px 20px 5px 0px;'  src='./img/bal_phd_photo.jpg' width=150/> -->
-
-<!-- Born in August 3rd, 1991, in a small town in Tanhuato, a small town in the county of Michoacan, in Mexico. At the age of 18, I had to move to the city of Morelia to enroll as a college student. In 2014, I received my Bachelor's degree with a major in Electronics Engineering at the Universidad Michoacana de San Nicolas de Hidalgo (UMSNH). In 2017, I received my Master's degree in Electrical Engineering with a Control Systems specialty, at the same university. In 2022, I got my Ph.D. degree in Electric Engineering, at the UMSNH also.
-
-My main subject of interest is Machine Learning, in special its sub-area of Reinforcement Learning. In this regard, I have used primarily Python and PyTorch to conduct my research. Nevertheless, I'm also familiar with other ML frameworks like TensorFlow and Keras. -->
-
 # Education
 
 ### Ph.D. in Electrical Engineering (2018-2022)
 
+Thesis: [Deep Reinforcement Learning and Demonstrations Applied to Global Maximum Power Point Tracking in Photovoltaic Systems](./assets/thesis_phd.pdf)
+
+Universidad Michoacana de San Nicolás de Hidalgo
+
 ### M.Sc. in Electrical Engineering (2015-2017)
 
-### B.Sc. in Electronics Engineering (2009-2014)
+Thesis: [Design of a Takagi-Sugeno Fuzzy Observer for an 11-Tray Batch Binary Distillation Column](./assets/thesis_masters.pdf)
+
+Universidad Michoacana de San Nicolás de Hidalgo
+
+### B.Sc. (Hons) in Electronics Engineering (2009-2014)
+
+Thesis: [Portable Digital Oscilloscope with Bluetooth Communication, Based on Signal Processor and Android Device](./assets/thesis_bachelors.pdf)
+
+Universidad Michoacana de San Nicolás de Hidalgo
 
 # Experience
 
-## Training 
+### On-site Training on Machine Learning
 
-## Adjunct Professor
+Huawei Technologies Co., Ltd.
 
-### Faculty of Electrical Engineering
+Training Center at Headquarters
 
-### Universidad Michoacana de San Nicolas de Hidalgo
+Shenzhen, Guangdong, China.
+
+April 2024 - May 2024
+
+### Adjunct Professor
+
+Faculty of Electrical Engineering
+
+Universidad Michoacana de San Nicolas de Hidalgo
+
+Morelia, México
 
 October 2015 - August 2019
 
-## Part-time Academic Technician Assistant
+### Part-time Academic Technician Assistant
 
-### Physics Laboratory of the Faculty of Electrical Engineering
+Faculty of Electrical Engineering
 
-### Universidad Michoacana de San Nicolas de Hidalgo
+Universidad Michoacana de San Nicolas de Hidalgo
+
+Morelia, México
 
 November 2014 - February 2015
 
@@ -92,51 +110,51 @@ November 2014 - February 2015
 
 # Publications
 
-## System-Independent Irradiance Sensorless ANN-Based MPPT for Photovoltaic Systems in Electric Vehicles
+### System-Independent Irradiance Sensorless ANN-Based MPPT for Photovoltaic Systems in Electric Vehicles
 
 Energies
 
-2021-08-07 | Journal article
+2021-08-07 / Journal article
 
 DOI: [10.3390/en14164820](https://doi.org/10.3390/en14164820)
 
 Part of ISSN: [1996-1073](https://portal.issn.org/resource/ISSN/1996-1073)
 
-## Characterization of a polycrystalline photovoltaic cell using artificial neural networks
+### Characterization of a polycrystalline photovoltaic cell using artificial neural networks
 
 Solar Energy
 
-2020 | Journal article
+2020 / Journal article
 
 DOI: [10.1016/j.solener.2019.12.012](https://doi.org/10.1016/j.solener.2019.12.012)
 
 Part of ISBN: [0038-092X](https://portal.issn.org/resource/ISSN/0038-092X)
 
-## Prediction of the Solar Resource through Differences
+### Prediction of the Solar Resource through Differences
 
 2020 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC)
 
-2020-11-04 | Conference paper
+2020-11-04 / Conference paper
 
 DOI: [10.1109/ropec50909.2020.9258682](https://doi.org/10.1109/ropec50909.2020.9258682)
 
 ISBN: [9781728199535](https://www.worldcat.org/isbn/9781728199535)
 
-## Evolving SARIMA Models Using cGA for Time Series Forecasting
+### Evolving SARIMA Models Using cGA for Time Series Forecasting
 
 2019 IEEE International Autumn Meeting on Power, Electronics and Computing, ROPEC 2019
 
-2019 | Conference paper
+2019 / Conference paper
 
 DOI: [10.1109/ROPEC48299.2019.9057132](https://doi.org/10.1109/ropec48299.2019.9057132)
 
 EID: 2-s2.0-85083561397
 
-## Analysis and comparison of distillation column models considering constant and variable relative volatility
+### Analysis and comparison of distillation column models considering constant and variable relative volatility
 
 2016 IEEE International Autumn Meeting on Power, Electronics and Computing, ROPEC 2016
 
-2017 | Conference paper
+2017 / Conference paper
 
 DOI: [10.1109/ROPEC.2016.7830590](https://doi.org/10.1109/ropec.2016.7830590)
 
@@ -157,36 +175,4 @@ EID: 2-s2.0-85013853666
 * JavaScript
 
 ---
-
-# Badges
-
-<a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' width=150 /></a>
-<a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png' width=150 /></a>
-<a href='https://www.credly.com/badges/40e504c8-b856-4fcf-8f40-0afa93d13157/public_url'><img src='https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png' width=150 /> </a>
-
----
-# My stats
-
-## GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=balcortex&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=balcortex&hide_total_contributions=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=balcortex&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balcortex&layout=compact&theme=vision-friendly&hide=jupyter%20notebook&card_width=498)](https://github.com/anuraghazra/github-readme-stats)
-
-## LeetCode
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/balcortex?theme=light&ext=heatmap)](https://leetcode.com/balcortex)
-<!--- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-
-
-## CodeWars
-
-
-[![Codewars](https://github.r2v.ch/codewars?user=balcortex&top_languages=true&hide_clan=true&theme=light&stroke=white)](https://www.codewars.com/users/balcortex)
-<!--- https://github.com/DiniFarb/codewars_readme_stats -->
-
 
