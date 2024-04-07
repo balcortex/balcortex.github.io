@@ -4,7 +4,7 @@
 
 Name: Baldwin Rainiero Cortes Hernandez
 
-Degree: Ph.D. in Electrical Engineering
+Degree: [Ph.D. in Electrical Engineering](./assets/degree_phd_digital.pdf)
 
 Role: Machine Learning Engineer and Data Scientist
 
@@ -44,7 +44,7 @@ As I continue to chart my course in the ever-evolving realm of technology, I rem
 
 # Education
 
-### Ph.D. in Electrical Engineering (2018-2022)
+### [Ph.D. in Electrical Engineering (2018-2022)](./assets/degree_phd_digital.pdf)
 
 Thesis: [Deep Reinforcement Learning and Demonstrations Applied to Global Maximum Power Point Tracking in Photovoltaic Systems](./assets/thesis_phd.pdf)
 
@@ -109,6 +109,16 @@ November 2014 - February 2015
 * [Google Data Analytics Certificate (2023)](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
 
 # Publications
+
+### A Behavioral Cloning based MPPT for Photovoltaic Systems: Learning Through P&O Demonstrations
+
+2021 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC)
+
+2021-11-10 / Conference paper
+
+DOI: [10.1109/ropec53248.2021.9668084](https://doi.org/10.1109/ropec53248.2021.9668084)
+
+Part of ISBN: [9781665434270](https://www.worldcat.org/isbn/9781665434287)
 
 ### System-Independent Irradiance Sensorless ANN-Based MPPT for Photovoltaic Systems in Electric Vehicles
 
