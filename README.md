@@ -4,7 +4,7 @@
 
 Name: Baldwin Rainiero Cortes Hernandez
 
-Degree: [Ph.D. in Electrical Engineering](./assets/degree_phd_digital.pdf)
+Degree: [Ph.D. in Electrical Engineering](./assets/degrees/degree_phd_digital.pdf)
 
 Role: Machine Learning Engineer and Data Scientist
 
@@ -44,33 +44,31 @@ As I continue to chart my course in the ever-evolving realm of technology, I rem
 
 # Education
 
-### [Ph.D. in Electrical Engineering (2018-2022)](./assets/degree_phd_digital.pdf)
+### [Ph.D. in Electrical Engineering (2018-2022)](./assets/degrees/degree_phd_digital.pdf)
 
-Thesis: [Deep Reinforcement Learning and Demonstrations Applied to Global Maximum Power Point Tracking in Photovoltaic Systems](./assets/thesis_phd.pdf)
+Thesis: [Deep Reinforcement Learning and Demonstrations Applied to Global Maximum Power Point Tracking in Photovoltaic Systems](./assets/thesis/thesis_phd.pdf)
 
-Universidad Michoacana de San Nicolás de Hidalgo
+Universidad Michoacana de San Nicolás de Hidalgo, México
 
 ### M.Sc. in Electrical Engineering (2015-2017)
 
-Thesis: [Design of a Takagi-Sugeno Fuzzy Observer for an 11-Tray Batch Binary Distillation Column](./assets/thesis_masters.pdf)
+Thesis: [Design of a Takagi-Sugeno Fuzzy Observer for an 11-Tray Batch Binary Distillation Column](./assets/thesis/thesis_masters.pdf)
 
-Universidad Michoacana de San Nicolás de Hidalgo
+Universidad Michoacana de San Nicolás de Hidalgo, México
 
 ### B.Sc. (Hons) in Electronics Engineering (2009-2014)
 
-Thesis: [Portable Digital Oscilloscope with Bluetooth Communication, Based on Signal Processor and Android Device](./assets/thesis_bachelors.pdf)
+Thesis: [Portable Digital Oscilloscope with Bluetooth Communication, Based on Signal Processor and Android Device](./assets/thesis/thesis_bachelors.pdf)
 
-Universidad Michoacana de San Nicolás de Hidalgo
+Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Experience
 
-### On-site Training on Machine Learning
+### On-site Training on Artificial Intelligence
 
 Huawei Technologies Co., Ltd.
 
-Training Center at Headquarters
-
-Shenzhen, Guangdong, China.
+Hangzhou, China
 
 April 2024 - May 2024
 
@@ -96,17 +94,17 @@ November 2014 - February 2015
 
 # Certifications
 
-* [DeepLearning AI Deep Learning Specialization (2024)](https://coursera.org/share/5efc194d1d5a7cad51fd511c4236ce45)
+* [DeepLearning AI Deep Learning Specialization (2024)](./assets/certifications/coursera_deep_learning.pdf) - [[Online]](https://coursera.org/share/5efc194d1d5a7cad51fd511c4236ce45)
 
-* [Huawei Certified ICT Associate-AI (2024)](https://1drv.ms/b/s!AjQLy1xNvKZXhe0NJbrMxiGWJfcobg?e=BEpYh6)
+* [Huawei Certified ICT Associate-AI (2024)](./assets/certifications/huawei_certification.pdf)
 
-* [Stanford University & DeepLearning AI Machine Learning Specialization (2023)](https://coursera.org/verify/specialization/B6BQZ3H9B2QS)
+* [Stanford University & DeepLearning AI Machine Learning Specialization (2023)](./assets/certifications/coursera_machine_learning.pdf) - [[Online]](https://coursera.org/verify/specialization/B6BQZ3H9B2QS)
 
-* [Microsoft Certified: Azure AI Fundamentals (2023)](https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/301A742B2A6B5A18?sharingId)
+* [Microsoft Certified: Azure AI Fundamentals (2023)](./assets/certifications/microsoft_azure_ai_fundamentals.pdf) - [[Online]](https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/301A742B2A6B5A18?sharingId)
 
-* [Google Advanced Data Analytics Certificate (2023)](https://www.coursera.org/account/accomplishments/professional-cert/W3PQMSFVMELG)
+* [Google Advanced Data Analytics Certificate (2023)](./assets/certifications/coursera_google_advanced_data_analytics.pdf) - [[Online]](https://www.coursera.org/account/accomplishments/professional-cert/W3PQMSFVMELG)
 
-* [Google Data Analytics Certificate (2023)](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
+* [Google Data Analytics Certificate (2023)](./assets/certifications/coursera_google_data_analytics.pdf) - [[Online]](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
 
 # Publications
 
@@ -171,7 +169,7 @@ DOI: [10.1109/ROPEC.2016.7830590](https://doi.org/10.1109/ropec.2016.7830590)
 EID: 2-s2.0-85013853666
  
 
-# Machine Learning and Data Science
+<!-- # Machine Learning and Data Science
 
 * Python
 * PyTorch
@@ -184,5 +182,5 @@ EID: 2-s2.0-85013853666
 * CSS3
 * JavaScript
 
----
+--- -->
 
