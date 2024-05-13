@@ -64,14 +64,6 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Experience
 
-### On-site Training on Artificial Intelligence
-
-Huawei Technologies Co., Ltd.
-
-Hangzhou, China
-
-April 2024 - May 2024
-
 ### Adjunct Professor
 
 Faculty of Electrical Engineering
@@ -93,6 +85,8 @@ Morelia, México
 November 2014 - February 2015
 
 # Certifications
+
+* [Huawei Advanced Training on Artificial Intelligence (2024 - China)](./assets/certifications/huawei_ia_1000_certificate.pdf)
 
 * [DeepLearning AI Deep Learning Specialization (2024)](./assets/certifications/coursera_deep_learning.pdf) - [[Online]](https://coursera.org/share/5efc194d1d5a7cad51fd511c4236ce45)
 
