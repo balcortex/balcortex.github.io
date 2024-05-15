@@ -1,0 +1,15 @@
+Born on August 3rd, 1991, in the quaint town of Tanhuato, nestled in the picturesque county of Michoacan, Mexico, I embarked on a journey marked by curiosity and ambition.
+
+At the tender age of 18, I bid farewell to the familiarity of my hometown and ventured into the bustling city of Morelia to pursue higher education. Fuelled by a passion for innovation and technology, I enrolled as a college student at the esteemed Universidad Michoacana de San Nicolas de Hidalgo (UMSNH).
+
+In 2014, my dedication bore fruit as I proudly received my **Bachelor’s degree in Electronics Engineering**, laying the foundation for my academic pursuits. Undeterred by challenges, I continued to hone my skills, delving deeper into the realms of Electric Engineering.
+
+In 2017, armed with unwavering determination, I attained my **Master’s degree with a specialization in Control Systems**, marking a significant milestone in my academic journey. This achievement not only solidified my expertise but also ignited a fervent passion for the intricate field of Machine Learning.
+
+In 2018, fueled by an insatiable curiosity and a desire to push the boundaries of innovation, I delved into the captivating world of **Machine Learning**, with a keen focus on **Reinforcement Learning**. Armed with **Python** and **PyTorch** as my primary tools, I embarked on a quest to unravel the complexities of this dynamic discipline.
+
+Finally, in 2022, I reached the pinnacle of my academic pursuits, earning my **Ph.D. in Electrical Engineering** from UMSNH. This crowning achievement not only symbolizes the culmination of years of dedication and perseverance but also serves as a testament to my unwavering commitment to excellence.
+
+Throughout my academic odyssey, I have navigated the intricate landscape of Machine Learning, leveraging my expertise to unravel complex problems and pave the way for groundbreaking discoveries. *While my journey has been rooted in academia, my aspirations extend beyond the confines of the ivory tower.*
+
+As I continue to chart my course in the ever-evolving realm of technology, I remain steadfast in my pursuit of knowledge, innovation, and transformative change. With a fervent dedication to harnessing the power of Machine Learning to drive meaningful impact, I stand poised to embrace the challenges and opportunities that lie ahead, eager to leave an indelible mark on the world.

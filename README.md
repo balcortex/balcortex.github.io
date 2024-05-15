@@ -12,6 +12,8 @@ Age: 32
 
 Citizenship: Mexican
 
+
+
 # Contact
 
 <img  style='float: left; margin-right: 10px' src="img/icons/envelope-regular.svg" width="20"> [balcortex@hotmail.com](mailto:balcortex@hotmail.com)
@@ -26,21 +28,35 @@ Citizenship: Mexican
 
 # About Me
 
-Born on August 3rd, 1991, in the quaint town of Tanhuato, nestled in the picturesque county of Michoacan, Mexico, I embarked on a journey marked by curiosity and ambition.
+Experienced engineer with expertise in renewable energy systems, data science, and machine learning. Developed groundbreaking techniques for optimizing photovoltaic systems' performance, including novel maximum power point tracking methods. Proficient in cloud computing services like AWS and Huawei Cloud. Recently granted an AI certification from Huawei and selected for a fully-funded training program in Hangzhou, China, focusing on cutting-edge AI algorithms. Committed to driving sustainable solutions and staying at the forefront of emerging technologies.
 
-At the tender age of 18, I bid farewell to the familiarity of my hometown and ventured into the bustling city of Morelia to pursue higher education. Fuelled by a passion for innovation and technology, I enrolled as a college student at the esteemed Universidad Michoacana de San Nicolas de Hidalgo (UMSNH).
+# Work Experience
 
-In 2014, my dedication bore fruit as I proudly received my **Bachelor’s degree in Electronics Engineering**, laying the foundation for my academic pursuits. Undeterred by challenges, I continued to hone my skills, delving deeper into the realms of Electric Engineering.
+### Universidad Michoacana de San Nicolas de Hidalgo – Division of Graduate Studies – Faculty of Electrical Engineering
 
-In 2017, armed with unwavering determination, I attained my **Master’s degree with a specialization in Control Systems**, marking a significant milestone in my academic journey. This achievement not only solidified my expertise but also ignited a fervent passion for the intricate field of Machine Learning.
+*Research Scientist, 2018 – 2022*
 
-In 2018, fueled by an insatiable curiosity and a desire to push the boundaries of innovation, I delved into the captivating world of **Machine Learning**, with a keen focus on **Reinforcement Learning**. Armed with **Python** and **PyTorch** as my primary tools, I embarked on a quest to unravel the complexities of this dynamic discipline.
+* Managed data acquisition and conducted extensive cleaning processes for irradiance and temperature sensors over a period of 4 years, encompassing a dataset of over four million measurements. Cleaning procedures included noise reduction, outlier detection, and handling missing values.
+* Conducted multiple time series forecasting experiments, focusing on areas such as electricity generation and consumption, as well as local irradiance. These experiments involved the exploration of various neural network architectures and rigorous hyper-parameter optimization techniques. This research activity resulted in an international conference paper.
+* Led the development of a novel method for characterizing photovoltaic panels utilizing artificial neural networks. This innovative approach significantly expedites the modeling process for real panels, facilitating faster simulations. The method was recognized for its contribution and was granted a journal paper.
+* Innovated a new maximum power point tracking (MPPT) technique for photovoltaic systems, specifically designed to operate effectively under fast-changing environmental conditions without the requirement of an irradiance sensor. Leveraging deep neural networks, this method dynamically controls the system's operation point, ensuring optimal power generation. The development of this technique culminated in a journal publication, highlighting its contribution to advancing renewable energy technologies.
+* Pioneered the development of a groundbreaking MPPT technique that leverages deep reinforcement learning to enhance the performance of the widely used classical method perturb and observe algorithm by mimicking its behavior. Through an innovative approach, this technique learns and adapts to the system's behavior, surpassing the capabilities of its traditional counterpart. This novel method garnered recognition in the form of an international conference paper.
+* Spearheaded the development of an innovative MPPT technique tailored for addressing the challenges posed by partial shading in photovoltaic systems. This novel approach combines traditional deep reinforcement learning with insights from classical algorithms, resulting in superior performance compared to several state-of-the-art deep learning methods. The method's effectiveness was rigorously validated through 800 experiments, each comprising 200 dataframes with 14,000 values per frame. In total, approximately 2.5 billion records were processed, necessitating advanced data manipulation techniques such as concatenation, merging, grouping, and averaging. The successful implementation of this method culminated in the awarding of a Ph.D. degree.
 
-Finally, in 2022, I reached the pinnacle of my academic pursuits, earning my **Ph.D. in Electrical Engineering** from UMSNH. This crowning achievement not only symbolizes the culmination of years of dedication and perseverance but also serves as a testament to my unwavering commitment to excellence.
+### Universidad Michoacana de San Nicolas de Hidalgo - Faculty of Electrical Engineering
+*Adjunct Professor, 2015 – 2019*
 
-Throughout my academic odyssey, I have navigated the intricate landscape of Machine Learning, leveraging my expertise to unravel complex problems and pave the way for groundbreaking discoveries. *While my journey has been rooted in academia, my aspirations extend beyond the confines of the ivory tower.*
+* Developed a course syllabus for each class (Digital Electronics, Digital Control, Microcontrollers, Instrumentation)
+* Lectured, led class discussions, and conducted other teaching activities during scheduled classes.
+* Created, administered, and graded various assessment methods.
 
-As I continue to chart my course in the ever-evolving realm of technology, I remain steadfast in my pursuit of knowledge, innovation, and transformative change. With a fervent dedication to harnessing the power of Machine Learning to drive meaningful impact, I stand poised to embrace the challenges and opportunities that lie ahead, eager to leave an indelible mark on the world.
+### Universidad Michoacana de San Nicolas de Hidalgo – Faculty of Electrical Engineering – Physics Laboratory
+
+**Part-time Academic Technician Assistant 2014 – 2015**
+
+* Provided instructional assistance of a technical or professional nature to a member of the faculty and to students.
+* Operated and maintained equipment, machines, and tools relevant to the physics class.
+
 
 # Education
 
@@ -62,28 +78,6 @@ Thesis: [Portable Digital Oscilloscope with Bluetooth Communication, Based on Si
 
 Universidad Michoacana de San Nicolás de Hidalgo, México
 
-# Experience
-
-### Adjunct Professor
-
-Faculty of Electrical Engineering
-
-Universidad Michoacana de San Nicolas de Hidalgo
-
-Morelia, México
-
-October 2015 - August 2019
-
-### Part-time Academic Technician Assistant
-
-Faculty of Electrical Engineering
-
-Universidad Michoacana de San Nicolas de Hidalgo
-
-Morelia, México
-
-November 2014 - February 2015
-
 # Certifications
 
 * [Huawei Advanced Training on Artificial Intelligence (2024 - China)](./assets/certifications/huawei_ia_1000_certificate.pdf)
@@ -99,6 +93,32 @@ November 2014 - February 2015
 * [Google Advanced Data Analytics Certificate (2023)](./assets/certifications/coursera_google_advanced_data_analytics.pdf) - [[Online]](https://www.coursera.org/account/accomplishments/professional-cert/W3PQMSFVMELG)
 
 * [Google Data Analytics Certificate (2023)](./assets/certifications/coursera_google_data_analytics.pdf) - [[Online]](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
+
+# Technical Skills
+
+* Proficiency in Python (NumPy, Pandas, SciPy, Jupyter Notebook) [+5 years].
+* Knowledge of machine and deep learning algorithms and frameworks (PyTorch, Scikit-Learn, TensorFlow, Keras, LightGBM) [+5 years].
+* Data manipulation and cleansing (merging, concatenation, missing values, outlier detection, label encoding) [+5 years].
+* Data visualization (Matplotlib, Seaborn, Plotly, Tableu) [+5 years].
+* Natural Language Processing and Image Processing using deep learning [1 year].
+* Knowledge of Azure Cloud and Huawei Cloud services [1 year].
+* Excellent understanding of database principles (SQL) [1 year].
+* Web Development (HTML5, JavaScript, CSS3) [6 months].
+
+# Soft Skills
+
+* Strong analytical mind and inclination for problem solving.
+* Self-motivated and accustomed to frequently learning and implementing new technologies.
+* Strong organizational skills and effective time management.
+* Ability to perform effectively under pressure.
+* Strong communication skills for technical and non-technical audiences.
+* Awareness of ethical issues in data science.
+
+# Languages
+
+Spanish - Native
+
+English - B2
 
 # Publications
 
