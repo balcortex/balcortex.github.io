@@ -28,7 +28,7 @@ Citizenship: Mexican
 
 # About Me
 
-Experienced engineer with expertise in renewable energy systems, data science, and machine learning. Developed groundbreaking techniques for optimizing photovoltaic systems' performance, including novel maximum power point tracking methods. Proficient in cloud computing services like AWS and Huawei Cloud. Recently granted an AI certification from Huawei and selected for a fully-funded training program in Hangzhou, China, focusing on cutting-edge AI algorithms. Committed to driving sustainable solutions and staying at the forefront of emerging technologies.
+Experienced engineer with expertise in renewable energy systems, data science, and machine learning. Developed groundbreaking techniques for optimizing photovoltaic systems' performance, including novel maximum power point tracking methods. Proficient in cloud computing services, like Microsoft Azure Cloud and Huawei Cloud services. Recently granted an AI certification from Huawei and selected for a fully-funded training program in Hangzhou, China, focusing on cutting-edge AI algorithms. Committed to driving sustainable solutions and staying at the forefront of emerging technologies.
 
 # Work Experience
 
@@ -52,7 +52,7 @@ Experienced engineer with expertise in renewable energy systems, data science, a
 
 ### Universidad Michoacana de San Nicolas de Hidalgo – Faculty of Electrical Engineering – Physics Laboratory
 
-**Part-time Academic Technician Assistant 2014 – 2015**
+*Part-time Academic Technician Assistant 2014 – 2015*
 
 * Provided instructional assistance of a technical or professional nature to a member of the faculty and to students.
 * Operated and maintained equipment, machines, and tools relevant to the physics class.
