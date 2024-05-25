@@ -80,6 +80,8 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
 
+* [Databricks Lakehouse Fundamentals (2024)](./assets/certifications/databricks_lakehouse_fundamentals.pdf) - [[Online]](https://credentials.databricks.com/c7c012a3-9064-4978-8fd3-6405859a7c9f)
+
 * [Huawei Advanced Training on Artificial Intelligence (2024 - China)](./assets/certifications/huawei_ia_1000_certificate.pdf)
 
 * [DeepLearning AI Deep Learning Specialization (2024)](./assets/certifications/coursera_deep_learning.pdf) - [[Online]](https://coursera.org/share/5efc194d1d5a7cad51fd511c4236ce45)
@@ -101,9 +103,11 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 * Data manipulation and cleansing (merging, concatenation, missing values, outlier detection, label encoding) [+5 years].
 * Data visualization (Matplotlib, Seaborn, Plotly, Tableu) [+5 years].
 * Natural Language Processing and Image Processing using deep learning [1 year].
-* Knowledge of Azure Cloud and Huawei Cloud services [1 year].
+* Knowledge of Microsoft Azure Cloud and Huawei Cloud services [1 year].
 * Excellent understanding of database principles (SQL) [1 year].
-* Web Development (HTML5, JavaScript, CSS3) [6 months].
+* Web Development (HTML5, JavaScript, CSS3).
+* Familiarity with big data manipulation tools (Spark, Databricks, Delta Lake).
+
 
 # Soft Skills
 
