@@ -28,7 +28,7 @@ Citizenship: Mexican
 
 # About Me
 
-Experienced engineer with expertise in renewable energy systems, data science, and machine learning. Developed groundbreaking techniques for optimizing photovoltaic systems' performance, including novel maximum power point tracking methods. Proficient in cloud computing services, like Microsoft Azure Cloud and Huawei Cloud services. Recently granted an AI certification from Huawei and selected for a fully-funded training program in Hangzhou, China, focusing on cutting-edge AI algorithms. Committed to driving sustainable solutions and staying at the forefront of emerging technologies.
+Experienced engineer with expertise in renewable energy systems, data science, and machine learning. Developed groundbreaking techniques for optimizing photovoltaic systems' performance using deep reinforcement learning, including novel maximum power point tracking methods. Proficient in cloud computing services, like Microsoft Azure Cloud and Huawei Cloud services. Recently granted an AI certification from Huawei and selected for a fully-funded training program in Hangzhou, China, focusing on cutting-edge AI algorithms. Committed to driving sustainable solutions and staying at the forefront of emerging technologies.
 
 # Work Experience
 
@@ -100,6 +100,7 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 * Proficiency in Python (NumPy, Pandas, SciPy, Jupyter Notebook) [+5 years].
 * Knowledge of machine and deep learning algorithms and frameworks (PyTorch, Scikit-Learn, TensorFlow, Keras, LightGBM) [+5 years].
+* Expertise in Deep Reinforcement Learning frameworks and algorithms (RLlib, TF Agents, Open AI Gym, DQN, PPO, DDPG) [+3 years].
 * Data manipulation and cleansing (merging, concatenation, missing values, outlier detection, label encoding) [+5 years].
 * Data visualization (Matplotlib, Seaborn, Plotly, Tableu) [+5 years].
 * Natural Language Processing and Image Processing using deep learning [1 year].
@@ -122,7 +123,7 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 Spanish - Native
 
-English - B2
+English - C1
 
 # Publications
 
