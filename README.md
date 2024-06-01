@@ -1,5 +1,14 @@
 <!-- # Bal Cortex -->
 
+
+<a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' width=150 /></a>
+<a href='https://www.credly.com/badges/bf3437ed-8755-42a4-8d4d-944e41ac151d/public_url'><img src='https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png' width=150 /></a>
+<a href='https://www.credly.com/badges/40e504c8-b856-4fcf-8f40-0afa93d13157/public_url'><img src='https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png' width=150 /></a>
+<a href='https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/301A742B2A6B5A18?sharingId=9F06F8927A5B57D5'><img src='https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main' width=150 /></a>
+<a href='https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/C5BD46B6287463C0?sharingId=9F06F8927A5B57D5'><img src='https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main' width=150 /></a>
+<a href='https://credentials.databricks.com/c7c012a3-9064-4978-8fd3-6405859a7c9f'><img src='https://images.credential.net/badge/tiny/ze3wqytg_1716745060618_badge.png' width=150 /></a>
+
+
 # Basic Information
 
 Name: Baldwin Rainiero Cortes Hernandez
@@ -34,9 +43,9 @@ Experienced engineer with expertise in renewable energy systems, data science, a
 
 ### Universidad Michoacana de San Nicolas de Hidalgo – Division of Graduate Studies – Faculty of Electrical Engineering
 
-*Research Scientist, 2018 – 2022*
+*Research Scientist (Ph.D. graduate), 2018 – 2022*
 
-* Managed data acquisition and conducted extensive cleaning processes for irradiance and temperature sensors over a period of 4 years, encompassing a dataset of over four million measurements. Cleaning procedures included noise reduction, outlier detection, and handling missing values.
+* Managed data acquisition and conducted extensive cleaning processes for irradiance and temperature sensors over a period of 4 years, encompassing a dataset of over four million measurements.
 * Conducted multiple time series forecasting experiments, focusing on areas such as electricity generation and consumption, as well as local irradiance. These experiments involved the exploration of various neural network architectures and rigorous hyper-parameter optimization techniques. This research activity resulted in an international conference paper.
 * Led the development of a novel method for characterizing photovoltaic panels utilizing artificial neural networks. This innovative approach significantly expedites the modeling process for real panels, facilitating faster simulations. The method was recognized for its contribution and was granted a journal paper.
 * Innovated a new maximum power point tracking (MPPT) technique for photovoltaic systems, specifically designed to operate effectively under fast-changing environmental conditions without the requirement of an irradiance sensor. Leveraging deep neural networks, this method dynamically controls the system's operation point, ensuring optimal power generation. The development of this technique culminated in a journal publication, highlighting its contribution to advancing renewable energy technologies.
@@ -46,15 +55,15 @@ Experienced engineer with expertise in renewable energy systems, data science, a
 ### Universidad Michoacana de San Nicolas de Hidalgo - Faculty of Electrical Engineering
 *Adjunct Professor, 2015 – 2019*
 
-* Developed a course syllabus for each class (Digital Electronics, Digital Control, Microcontrollers, Instrumentation)
-* Lectured, led class discussions, and conducted other teaching activities during scheduled classes.
+* Developed course syllabi for Digital Electronics, Digital Control, Microcontrollers, and Instrumentation.
+* Lectured, led class discussions, and conducted various teaching activities.
 * Created, administered, and graded various assessment methods.
 
 ### Universidad Michoacana de San Nicolas de Hidalgo – Faculty of Electrical Engineering – Physics Laboratory
 
 *Part-time Academic Technician Assistant 2014 – 2015*
 
-* Provided instructional assistance of a technical or professional nature to a member of the faculty and to students.
+* Provided instructional assistance to faculty and students.
 * Operated and maintained equipment, machines, and tools relevant to the physics class.
 
 
@@ -80,6 +89,8 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
 
+* [Microsoft Certified: Azure Data Scientist Associate (2024)](./assets/certifications/microsoft_azure_data_scientist_associate.pdf) - [[Online]](https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/C5BD46B6287463C0?sharingId=9F06F8927A5B57D5)
+
 * [Databricks Lakehouse Fundamentals (2024)](./assets/certifications/databricks_lakehouse_fundamentals.pdf) - [[Online]](https://credentials.databricks.com/c7c012a3-9064-4978-8fd3-6405859a7c9f)
 
 * [Huawei Advanced Training on Artificial Intelligence (2024 - China)](./assets/certifications/huawei_ia_1000_certificate.pdf)
@@ -98,16 +109,18 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Technical Skills
 
-* Proficiency in Python (NumPy, Pandas, SciPy, Jupyter Notebook) [+5 years].
-* Knowledge of machine and deep learning algorithms and frameworks (PyTorch, Scikit-Learn, TensorFlow, Keras, LightGBM) [+5 years].
-* Expertise in Deep Reinforcement Learning frameworks and algorithms (RLlib, TF Agents, Open AI Gym, DQN, PPO, DDPG) [+3 years].
-* Data manipulation and cleansing (merging, concatenation, missing values, outlier detection, label encoding) [+5 years].
-* Data visualization (Matplotlib, Seaborn, Plotly, Tableu) [+5 years].
-* Natural Language Processing and Image Processing using deep learning [1 year].
-* Knowledge of Microsoft Azure Cloud and Huawei Cloud services [1 year].
-* Excellent understanding of database principles (SQL) [1 year].
-* Web Development (HTML5, JavaScript, CSS3).
-* Familiarity with big data manipulation tools (Spark, Databricks, Delta Lake).
+* **PV Systems:** Modelling, Characterization, DC Converters, Maximum Power Point Tracking.
+* **Automatic Control:** Optimal Control, Sliding Modes, State Space, Observers.
+* **Programming:** Python, MATLAB, C, JavaScript, VHDL.
+* **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-Learn.
+* **Deep Learning:** NLP and Image Processing.
+* **Deep Reinforcement Learning:** RLlib, Stable Baselines3, TF Agents, Open AI Gym.
+* **Big Data:** Apache Spark, Databricks, Delta Lake.
+* **Cloud Services:** Microsoft Azure, Huawei Cloud.
+* **Web Development:** HTML5, JavaScript, CSS3.
+* **Database:** SQL.
+* **Version control:** Git, GitHub, GitLab.
+
 
 
 # Soft Skills
@@ -121,9 +134,8 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Languages
 
-Spanish - Native
-
-English - C1
+* Spanish - Native
+* English - C1
 
 # Publications
 
