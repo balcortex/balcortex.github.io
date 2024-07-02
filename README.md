@@ -109,6 +109,15 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 * [Google Data Analytics Certificate (2023)](./assets/certifications/coursera_google_data_analytics.pdf) - [[Online]](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
 
+# Workshops and Seminars
+
+* [Efficient Computing in Python (2019)](./assets/workshops/efficient_python_seminar.pdf)
+
+* [4th Workshop on Monitoring, Diagnostics, and Fault-Tolerant Control (2016)](./assets/workshops/fault_diagnosis_workshop.pdf)
+
+* [Sliding Mode for Engineering Application (2015)](./assets/workshops/sliding_mode_seminar.pdf)
+
+
 # Technical Skills
 
 * **PV Systems:** Modelling, Characterization, DC Converters, Maximum Power Point Tracking.
