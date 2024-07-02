@@ -109,6 +109,16 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 * [Google Data Analytics Certificate (2023)](./assets/certifications/coursera_google_data_analytics.pdf) - [[Online]](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
 
+# Honors ans Awards
+
+* [Highest GPA of the 3rd Semester of the Doctoral Program in Electrical Engineering (2019)](./assets/awards/highest_gpa_doctoral.pdf)
+
+* [CENEVAL Award for Excellence in EGEL Performance (2015)](./assets/awards/ceneval_excellence_award.pdf)
+
+* [First Place in the 2014 Technological Development Prototype Contest (2014)](./assets/awards/technological_development_contest_award.pdf)
+
+* [First Place of the Class in the Electronic Engineering Degree Program (2014)](./assets/awards/highest_gpa_bachelors.pdf)
+
 # Workshops and Seminars
 
 * [Efficient Computing in Python (2019)](./assets/workshops/efficient_python_seminar.pdf)
