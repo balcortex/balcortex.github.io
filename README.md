@@ -41,6 +41,14 @@ Experienced engineer with expertise in renewable energy systems, data science, a
 
 # Work Experience
 
+### G2i Inc., San Francisco, CA
+*Machine Learning Engineer (In partnership with Scale AI)*, June 2024 - Present
+
+* Evaluated the quality of AI-generated code, providing human-readable summaries of rationale.
+* Assisted in training Language Models (LLM) by evaluating responses and providing recommendations on understanding assignments.
+* Solved coding problems and wrote functional, efficient code.
+* Developed robust test cases to ensure code efficiency and effectiveness.
+
 ### Universidad Michoacana de San Nicolas de Hidalgo – Division of Graduate Studies – Faculty of Electrical Engineering
 
 *Research Scientist (Ph.D. graduate), 2018 – 2022*
