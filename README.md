@@ -97,7 +97,7 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
 
-* [University of Michigan: Digital Twins (2024) - (Course completed - Certificate in process)](./assets/certifications/coursera_digital_twins.png)
+* [University of Michigan: Digital Twins (2024)](./assets/certifications/coursera_digital_twins.pdf) - [[Online]](https://coursera.org/share/d6e20431d82649e1c8b829a8cbfd3485)
 
 * [Microsoft Certified: Azure Data Scientist Associate (2024)](./assets/certifications/microsoft_azure_data_scientist_associate.pdf) - [[Online]](https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/C5BD46B6287463C0?sharingId=9F06F8927A5B57D5)
 
