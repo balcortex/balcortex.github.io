@@ -97,7 +97,9 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
 
-* [University of Michigan: Digital Twins (2024)](./assets/certifications/coursera_digital_twins.png) - [[Online]](https://coursera.org/share/d6e20431d82649e1c8b829a8cbfd3485)
+* [Agile with Atlassian Jira (2024)](./assets/certifications/coursera_agile_attlassian_jira.pdf) - [[Online]](https://coursera.org/share/5a7d7940494b385182eddb4752620b31)
+
+* [University of Michigan: Digital Twins (2024)](./assets/certifications/coursera_digital_twins.pdf) - [[Online]](https://coursera.org/share/d6e20431d82649e1c8b829a8cbfd3485)
 
 * [Microsoft Certified: Azure Data Scientist Associate (2024)](./assets/certifications/microsoft_azure_data_scientist_associate.pdf) - [[Online]](https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/C5BD46B6287463C0?sharingId=9F06F8927A5B57D5)
 
@@ -138,7 +140,8 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Technical Skills
 
-* **PV Systems:** Modelling, Characterization, DC Converters, Maximum Power Point Tracking.
+* **PV Systems:** Modelling, Characterization, Simulation, Maximum Power Point Tracking.
+* **Time Series:** Analysis, Modelling, Forecasting.
 * **Automatic Control:** Optimal Control, Sliding Modes, State Space, Observers.
 * **Programming:** Python, MATLAB, C, JavaScript, VHDL.
 * **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-Learn.
@@ -147,8 +150,10 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 * **Big Data:** Apache Spark, Databricks, Delta Lake.
 * **Cloud Services:** Microsoft Azure, Huawei Cloud.
 * **Web Development:** HTML5, JavaScript, CSS3.
-* **Database:** SQL.
+* **Database:** SQL, MongoDB.
 * **Version control:** Git, GitHub, GitLab.
+* **Workflow Management**: Apache Airflow, Kedro.
+* **Project Management:** Agile, Scrum, Kanban, Attlasian Jira.
 
 
 
