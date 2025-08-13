@@ -41,8 +41,17 @@ Experienced engineer with expertise in renewable energy systems, data science, a
 
 # Work Experience
 
+### Sproule ERCE, Mexico
+*Associate, Energy Insights*, August 2024 - Present
+
+* Developed advanced energy models using machine learning algorithms to capture key variables and transition pathways, contributing to data-driven insights for energy transition strategies.
+* Created data transformation pipelines to clean and transform data for modeling and analysis.
+* Created visualizations to assess model performance, highlight feature importance, and improve interpretability.
+* Communicated results and insights through concise updates and detailed documentation for the team.
+* Participated in the hiring process for new members within the team.
+
 ### G2i Inc., San Francisco, CA
-*Machine Learning Engineer (In partnership with Scale AI)*, June 2024 - Present
+*Machine Learning Engineer (In partnership with Scale AI)*, June 2024 - August 2024
 
 * Evaluated the quality of AI-generated code, providing human-readable summaries of rationale.
 * Assisted in training Language Models (LLM) by evaluating responses and providing recommendations on understanding assignments.
@@ -96,6 +105,8 @@ Thesis: [Portable Digital Oscilloscope with Bluetooth Communication, Based on Si
 Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
+
+* [University of Colorado Bolder (2025)](./assets/certifications/coursera_renewable_power.pdf) - [[Online]](https://coursera.org/share/8aabf7c0a618a8b1aa7a5fe13d5754b5)
 
 * [Agile with Atlassian Jira (2024)](./assets/certifications/coursera_agile_attlassian_jira.pdf) - [[Online]](https://coursera.org/share/5a7d7940494b385182eddb4752620b31)
 
@@ -170,6 +181,7 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 * Spanish - Native
 * English - C1
+* Portuguese - A1
 
 # Publications
 
