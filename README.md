@@ -7,6 +7,7 @@
 <a href='https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/301A742B2A6B5A18?sharingId=9F06F8927A5B57D5'><img src='https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main' width=150 /></a>
 <a href='https://learn.microsoft.com/api/credentials/share/en-us/BalCortex-1314/C5BD46B6287463C0?sharingId=9F06F8927A5B57D5'><img src='https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main' width=150 /></a>
 <a href='https://credentials.databricks.com/c7c012a3-9064-4978-8fd3-6405859a7c9f'><img src='https://images.credential.net/badge/tiny/ze3wqytg_1716745060618_badge.png' width=150 /></a>
+<a href='https://www.credly.com/badges/46e27b9f-64b8-4522-bfec-437b2ee1cbe2/public_url'><img src='https://images.credly.com/images/5ff597e8-7637-4f3c-b31c-c0105b1eeba7/image.png' width=150 /></a>
 
 
 # Basic Information
@@ -106,7 +107,9 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
 
-* [University of Colorado Bolder (2025)](./assets/certifications/coursera_renewable_power.pdf) - [[Online]](https://coursera.org/share/8aabf7c0a618a8b1aa7a5fe13d5754b5)
+* [IBM: Machine Learning with Apache Spark (2025)](./assets/certifications/coursera_ml_spark.pdf) - [[Online]](https://coursera.org/share/882e2fd23463682f2c9300e93a00b637)
+
+* [University of Colorado Bolder: Renewable Power and Electricity Systems (2025)](./assets/certifications/coursera_renewable_power.pdf) - [[Online]](https://coursera.org/share/8aabf7c0a618a8b1aa7a5fe13d5754b5)
 
 * [Agile with Atlassian Jira (2024)](./assets/certifications/coursera_agile_attlassian_jira.pdf) - [[Online]](https://coursera.org/share/5a7d7940494b385182eddb4752620b31)
 
