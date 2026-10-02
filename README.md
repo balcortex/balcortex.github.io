@@ -45,11 +45,10 @@ Experienced engineer with expertise in renewable energy systems, data science, a
 ### Sproule ERCE, Mexico
 *Associate, Energy Insights*, August 2024 - Present
 
-* Developed advanced energy models using machine learning algorithms to capture key variables and transition pathways, contributing to data-driven insights for energy transition strategies.
-* Created data transformation pipelines to clean and transform data for modeling and analysis.
-* Created visualizations to assess model performance, highlight feature importance, and improve interpretability.
-* Communicated results and insights through concise updates and detailed documentation for the team.
-* Participated in the hiring process for new members within the team.
+* Developed Sproule's World Energy Models, integrating historical data and future scenarios to assess energy-transition pathways.
+* Built reproducible data pipelines using Python, PySpark, Spark SQL, and Delta tables, and supported the migration of modeling and analytical workflows to Azure Databricks. Harmonized energy, emissions, economic, and scenario datasets through data-quality controls.
+* Developed interactive dashboards and visualizations to compare historical trends and energy-transition scenarios, including Sankey diagrams to trace energy and emissions flows from primary sources through conversion processes to end use.
+* Applied large language models and research agents to technical research, document analysis, and information synthesis, and used AI-assisted workflows for code generation, review, testing, and documentation.
 
 ### G2i Inc., San Francisco, CA
 *Machine Learning Engineer (In partnership with Scale AI)*, June 2024 - August 2024
