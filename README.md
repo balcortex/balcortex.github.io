@@ -18,7 +18,7 @@ Degree: [Ph.D. in Electrical Engineering](./assets/degrees/degree_phd_digital.pd
 
 Role: Machine Learning Engineer and Data Scientist
 
-Age: 32
+Age: 35
 
 Citizenship: Mexican
 
@@ -107,9 +107,11 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 # Certifications
 
+* [Packt: Mastering Azure Databricks for Data Engineers Specialization (2026)](./assets/certifications/coursera_azure_databricks.pdf) - [[Online]](https://www.coursera.org/account/accomplishments/specialization/OQJSAKZDPQT0)
+
 * [IBM: Machine Learning with Apache Spark (2025)](./assets/certifications/coursera_ml_spark.pdf) - [[Online]](https://coursera.org/share/882e2fd23463682f2c9300e93a00b637)
 
-* [University of Colorado Bolder: Renewable Power and Electricity Systems (2025)](./assets/certifications/coursera_renewable_power.pdf) - [[Online]](https://coursera.org/share/8aabf7c0a618a8b1aa7a5fe13d5754b5)
+* [University of Colorado Boulder: Renewable Power and Electricity Systems (2025)](./assets/certifications/coursera_renewable_power.pdf) - [[Online]](https://coursera.org/share/8aabf7c0a618a8b1aa7a5fe13d5754b5)
 
 * [Agile with Atlassian Jira (2024)](./assets/certifications/coursera_agile_attlassian_jira.pdf) - [[Online]](https://coursera.org/share/5a7d7940494b385182eddb4752620b31)
 
@@ -133,7 +135,7 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 
 * [Google Data Analytics Certificate (2023)](./assets/certifications/coursera_google_data_analytics.pdf) - [[Online]](https://coursera.org/share/5dd0dbb996cf3f5791747998dac82370)
 
-# Honors ans Awards
+# Honors and Awards
 
 * [Highest GPA of the 3rd Semester of the Doctoral Program in Electrical Engineering (2019)](./assets/awards/highest_gpa_doctoral.pdf)
 
@@ -167,7 +169,7 @@ Universidad Michoacana de San Nicolás de Hidalgo, México
 * **Database:** SQL, MongoDB.
 * **Version control:** Git, GitHub, GitLab.
 * **Workflow Management**: Apache Airflow, Kedro.
-* **Project Management:** Agile, Scrum, Kanban, Attlasian Jira.
+* **Project Management:** Agile, Scrum, Kanban, Atlassian Jira.
 
 
 
