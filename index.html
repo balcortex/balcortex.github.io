@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% capture cv_source %}{% include_relative README.md %}{% endcapture %}
+{% comment %}Ignore commented-out Markdown headings when dividing the CV.{% endcomment %}
+{% assign source_fragments = cv_source | split: '<!--' %}
+{% capture cv_source %}{% for fragment in source_fragments %}{% if forloop.first %}{{ fragment }}{% else %}{% assign uncommented_fragments = fragment | split: '-->' %}{{ uncommented_fragments | shift | join: '-->' }}{% endif %}{% endfor %}{% endcapture %}
+{% capture heading_separator %}
+# {% endcapture %}
+{% capture newline %}
+|{% endcapture %}
+{% assign newline = newline | remove: '|' %}
+{% assign cv_sections = cv_source | split: heading_separator %}
+<section id="experience" class="profile-view" aria-label="Experience">
+  {% for block in cv_sections %}
+    {% assign section_title = block | split: newline | first | strip %}
+    {% if section_title == 'Work Experience' %}
+      {% include profile-section.html block=block %}
+    {% endif %}
+  {% endfor %}
+  <details class="profile-details">
+    <summary>Profile, education and skills</summary>
+    {% for block in cv_sections %}
+      {% assign section_title = block | split: newline | first | strip %}
+      {% case section_title %}
+        {% when 'Basic Information', 'Contact', 'About Me', 'Education', 'Honors and Awards', 'Workshops and Seminars', 'Technical Skills', 'Soft Skills', 'Languages' %}
+          {% include profile-section.html block=block %}
+      {% endcase %}
+    {% endfor %}
+  </details>
+</section>
+<section id="certifications" class="profile-view" aria-label="Certifications">
+  {% for block in cv_sections %}
+    {% assign section_title = block | split: newline | first | strip %}
+    {% if section_title == 'Certifications' %}
+      {% include profile-section.html block=block %}
+    {% endif %}
+  {% endfor %}
+  <div class="certification-badges" aria-label="Certification badges">
+    {{ cv_sections | first | markdownify }}
+  </div>
+</section>
+<section id="publications" class="profile-view" aria-label="Publications">
+  {% for block in cv_sections %}
+    {% assign section_title = block | split: newline | first | strip %}
+    {% if section_title == 'Publications' %}
+      {% include profile-section.html block=block %}
+    {% endif %}
+  {% endfor %}
+</section>
