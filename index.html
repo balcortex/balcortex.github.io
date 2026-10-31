@@ -18,16 +18,13 @@ layout: default
       {% include profile-section.html block=block %}
     {% endif %}
   {% endfor %}
-  <details class="profile-details">
-    <summary>Education, skills and details</summary>
-    {% for block in cv_sections %}
-      {% assign section_title = block | split: newline | first | strip %}
-      {% case section_title %}
-        {% when 'Education', 'Honors and Awards', 'Workshops and Seminars', 'Technical Skills', 'Soft Skills', 'Languages', 'Basic Information' %}
-          {% include profile-section.html block=block %}
-      {% endcase %}
-    {% endfor %}
-  </details>
+  {% for block in cv_sections %}
+    {% assign section_title = block | split: newline | first | strip %}
+    {% case section_title %}
+      {% when 'Basic Information', 'Education', 'Honors and Awards', 'Workshops and Seminars', 'Technical Skills', 'Soft Skills', 'Languages' %}
+        {% include profile-section.html block=block %}
+    {% endcase %}
+  {% endfor %}
 </section>
 <section id="experience" class="profile-view" aria-label="Experience">
   {% for block in cv_sections %}
@@ -38,15 +35,17 @@ layout: default
   {% endfor %}
 </section>
 <section id="certifications" class="profile-view" aria-label="Certifications">
-  {% for block in cv_sections %}
-    {% assign section_title = block | split: newline | first | strip %}
-    {% if section_title == 'Certifications' %}
-      {% include profile-section.html block=block %}
-    {% endif %}
-  {% endfor %}
+  <h2>Certifications</h2>
   <div class="certification-badges" aria-label="Certification badges">
     {{ cv_sections | first | markdownify }}
   </div>
+  {% for block in cv_sections %}
+    {% assign section_title = block | split: newline | first | strip %}
+    {% if section_title == 'Certifications' %}
+      {% assign cert_lines = block | split: newline %}
+      {{ cert_lines | shift | join: newline | markdownify }}
+    {% endif %}
+  {% endfor %}
 </section>
 <section id="publications" class="profile-view" aria-label="Publications">
   {% for block in cv_sections %}
