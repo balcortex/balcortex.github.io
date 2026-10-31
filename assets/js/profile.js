@@ -6,7 +6,11 @@
   function activateSection() {
     let target;
     try {
-      target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      const hash = decodeURIComponent(location.hash.slice(1));
+      target = document.getElementById(hash);
+      if (!target && hash === 'about') {
+        target = document.getElementById('about-me');
+      }
     } catch {
       target = null;
     }

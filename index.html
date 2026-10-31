@@ -11,6 +11,24 @@ layout: default
 |{% endcapture %}
 {% assign newline = newline | remove: '|' %}
 {% assign cv_sections = cv_source | split: heading_separator %}
+<section id="about-me" class="profile-view" aria-label="About Me">
+  {% for block in cv_sections %}
+    {% assign section_title = block | split: newline | first | strip %}
+    {% if section_title == 'About Me' %}
+      {% include profile-section.html block=block %}
+    {% endif %}
+  {% endfor %}
+  <details class="profile-details">
+    <summary>Education, skills and details</summary>
+    {% for block in cv_sections %}
+      {% assign section_title = block | split: newline | first | strip %}
+      {% case section_title %}
+        {% when 'Education', 'Honors and Awards', 'Workshops and Seminars', 'Technical Skills', 'Soft Skills', 'Languages', 'Basic Information' %}
+          {% include profile-section.html block=block %}
+      {% endcase %}
+    {% endfor %}
+  </details>
+</section>
 <section id="experience" class="profile-view" aria-label="Experience">
   {% for block in cv_sections %}
     {% assign section_title = block | split: newline | first | strip %}
@@ -18,16 +36,6 @@ layout: default
       {% include profile-section.html block=block %}
     {% endif %}
   {% endfor %}
-  <details class="profile-details">
-    <summary>Profile, education and skills</summary>
-    {% for block in cv_sections %}
-      {% assign section_title = block | split: newline | first | strip %}
-      {% case section_title %}
-        {% when 'Basic Information', 'Contact', 'About Me', 'Education', 'Honors and Awards', 'Workshops and Seminars', 'Technical Skills', 'Soft Skills', 'Languages' %}
-          {% include profile-section.html block=block %}
-      {% endcase %}
-    {% endfor %}
-  </details>
 </section>
 <section id="certifications" class="profile-view" aria-label="Certifications">
   {% for block in cv_sections %}

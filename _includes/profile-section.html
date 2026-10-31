@@ -3,5 +3,5 @@
 {% assign section_newline = section_newline | remove: '|' %}
 {% assign section_lines = include.block | split: section_newline %}
 {% assign section_title = section_lines | first | strip %}
-<h2{% unless section_title == 'Certifications' or section_title == 'Publications' %} id="{{ section_title | slugify }}"{% endunless %}>{{ section_title | escape }}</h2>
+<h2{% unless section_title == 'Certifications' or section_title == 'Publications' or section_title == 'About Me' %} id="{{ section_title | slugify }}"{% endunless %}>{{ section_title | escape }}</h2>
 {{ section_lines | shift | join: section_newline | markdownify }}
